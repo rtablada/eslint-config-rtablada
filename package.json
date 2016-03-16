@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rtablada",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A sane ESLint config based on Airbnb's rules",
   "main": "index.js",
   "scripts": {

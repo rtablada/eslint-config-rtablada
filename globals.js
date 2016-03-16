@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    'rtablada',
+    'eslint-config-rtablada',
   ].map(require.resolve),
 
   'parserOptions': {

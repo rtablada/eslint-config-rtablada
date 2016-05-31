@@ -18,9 +18,8 @@ module.exports = {
   },
 
   rules: {
-    quotes: [1, 'backtick', 'avoid-escape'],
-    'arrow-body-style': [1, 'always'],
-    'arrow-parens': 1,
+    'func-names': 0,
+    'arrow-parens': 2,
     'constructor-super': 2,
     'no-this-before-super': 2,
   },

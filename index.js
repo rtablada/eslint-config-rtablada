@@ -21,5 +21,6 @@ module.exports = {
     'no-this-before-super': 2,
     'newline-before-return': 2,
     'import/no-unresolved': 0,
+    'prefer-rest-params': 0
   },
 };
